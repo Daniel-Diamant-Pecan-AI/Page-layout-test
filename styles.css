@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.sidebar {
+  position: absolute;
+  width: 100px;
+  height: 500px;
+  background-color: #aaa;
+}
+
+.sidebar-item {
+  display: block;
+  width: 100px;
+}
+
+.content {
+  position: absolute;
+  left: 100px;
+  height: 500px;
+  width: 400px;
+  background-color: #eee;
+}
